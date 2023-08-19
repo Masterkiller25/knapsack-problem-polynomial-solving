@@ -1,1 +1,1 @@
-# knapsack-problem-polynomial-solving
+# knapsack problem polynomial solving
